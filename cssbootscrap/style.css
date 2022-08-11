@@ -1,0 +1,81 @@
+.maindiv{
+    
+    background-color: rgb(81, 0, 255);
+    padding: 8px;
+    text-align: center;
+    color: aliceblue;
+}
+.btn{
+    
+    margin-left: 4vh;
+    background-color: rgb(255, 0, 81);
+    outline: none;
+    margin-right: 2vh;
+  }
+#btn2{
+   
+    
+}
+.navbar-brand
+{
+--bs-gutter-x: 7.5rem;
+}
+.collapse
+{
+--bs-navbar-nav-link-padding-x: 2.5rem;
+--bs-navbar-nav-link-padding-x: 1.5rem;
+}
+.center
+{
+    text-align: center;
+}
+.blog{
+    color: rgb(81, 0, 255);
+}
+
+.form{
+    text-align: center;
+    margin-left: 10vh;
+    padding-right: 10vh;
+}
+input{
+    width: 40%;
+    
+}
+.input-group {
+    display: block;
+    width: 10%;
+    margin-right: 10vh;
+}
+.row{
+    text-align: center;
+}
+.btn01{
+    background-color: rgb(60, 0, 255);
+    color: aliceblue;
+}
+
+.img-fluid {
+    max-width: 152%;
+    height: 31vh;
+  }
+
+  .imgdiv{
+    height: 45vh;
+    width: 92vw;
+    background-color: brown;
+    margin-left: 4vw;
+    margin-right: -10vw;
+   
+    background: url(computer-lab-37525697.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.imgcover{
+    background-size: cover;
+   
+
+}
+  
+ 

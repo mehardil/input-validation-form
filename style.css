@@ -1,0 +1,12 @@
+.backcolor{
+    background-color: rgb(76, 0, 255);
+   
+}
+.card{
+    width: 500px;
+    height: 500px;
+}
+
+input,select{
+    margin-left: 10px;
+}
